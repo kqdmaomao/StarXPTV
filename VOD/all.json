@@ -3,7 +3,7 @@
     {
       "name": "Bilibili",
       "type": 3,
-      "api": "bili",
+      "api": "csp_bili",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/kqdmaomao/StarXPTV/main/JS/bili.js"
     }
   ]
