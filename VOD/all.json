@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "name": "测试嗅探",
+      "name": "Bilibili",
       "type": 3,
       "api": "ntdm",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/kqdmaomao/StarXPTV/tree/main/JS/ntdm.js"
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/kqdmaomao/StarXPTV/tree/main/JS/bili.js"
     }
   ]
 }

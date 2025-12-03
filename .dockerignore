@@ -1,0 +1,10 @@
+.git
+.gitignore
+.DS_Store
+__pycache__/
+*.py[cod]
+*.zip
+YSbrowser_src/
+YSbrowser_ubuntu/
+node_modules/
+tmp/
