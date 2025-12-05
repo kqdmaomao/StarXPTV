@@ -2,9 +2,9 @@
 // B站 xptv 插件 (v4.1 最终稳定版)
 // =====================
 
-const $configObj = argsify($config_str)
+const $config = argsify($config_str)
 // 请用您刚复制的完整、新鲜的 Cookie 字符串替换下面这个值
-const BILI_COOKIE = "" //哔哩哔哩 Cookie
+const BILI_COOKIE = $config.cookie
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 
 // 配置
